@@ -14,7 +14,7 @@ How to copy our widget into your website:
 
 2. Then copy the code from the section below into your website's code.
 
-![](https://github.com/PlasBit/Calculator-Widget/blob/main/CopyCode.gif)
+![](https://github.com/PlasBit/Calculator-Widget/blob/main/CopyCode2.gif)
 
 
 Start using our Crypto calculator widget at your own website!
