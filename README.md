@@ -1,22 +1,36 @@
-# Calculator-Widget
-Crypto Calculator Widget
-A Calculator that converts Cryptocurrencies into Fiat Currencies
 
-Check our website for the complete customization of our widgets https://www.plasbit.com/widgets
+# Crypto Calculator-Widget #
 
-How to copy our widget into your website:
 
-1. Best option for wordpress and begginner developers - Enter our website (https://www.plasbit.com/widgets) Click on the claculator widget section, and customize your widget with your preferred colours and design.
+### The __[Crypto Calculator Widget](https://www.plasbit.com/widgets)__ — is a beautiful and easy-to-use real-time website tool that converts cryptocurrencies into Fiat currencies FOR ANY WEBSITES. You can choose from 50 diffrent cryptocurrencies, and 40 Fiat Currencies to convert For FREE on your site. ###
+
+
+## [DEMO](https://www.plasbit.com/widgets) ###
+
+
+## How to customize: ##
 
 
 ![](https://github.com/PlasBit/Calculator-Widget/blob/main/Customize.gif)
 
+## How to copy the code into your wesite: ##
 
-2. Then copy the code from the section below into your website's code.
 
 ![](https://github.com/PlasBit/Calculator-Widget/blob/main/CopyCode2.gif)
 
+### How To Install ###
 
-Start using our Crypto calculator widget at your own website!
+0. Copy [example](#example-) below and set your attributes customize.
+1. Enjoy.
 
-For more information or contact details enter our website www.plasbit.com
+---
+
+### Example ###
+
+```html
+<!-- Crypto Calculator Widget --><div id="crypto_calculator" data-coins="" data-theme="linear-gradient(90deg, rgba(115, 114, 114, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(115, 114, 114, 1) 100%)" data-text="#ffffff" data-button="#0581de"></div><script src="https://img.plasbit.com/widget/js/index.js"></script><!-- /Crypto Calculator Widget -->
+```
+
+
+
+### Check our website for the complete customization of our widgets https://www.plasbit.com/widgets ###
