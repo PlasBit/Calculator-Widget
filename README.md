@@ -2,7 +2,7 @@
 # Crypto Calculator-Widget #
 
 
-### The __[Crypto Calculator Widget](https://www.plasbit.com/widgets)__ — is a beautiful and easy-to-use real-time website tool that converts cryptocurrencies into Fiat currencies FOR ANY WEBSITES. You can choose from 50 diffrent cryptocurrencies, and 40 Fiat Currencies to convert For FREE on your site. ###
+### The Crypto Calculator Widget — is a beautiful and easy-to-use real-time website tool that converts cryptocurrencies into Fiat currencies FOR ANY WEBSITES. You can choose from 50 diffrent cryptocurrencies, and 40 Fiat Currencies to convert For FREE on your site. ###
 
 
 ## [DEMO](https://www.plasbit.com/widgets) ###
