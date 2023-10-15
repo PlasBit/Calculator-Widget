@@ -1,36 +1,48 @@
+# Crypto Calculator Widget 🪙
 
-# Crypto Calculator-Widget #
+The **Crypto Calculator Widget** offers a sleek, real-time tool for websites, enabling the conversion between cryptocurrencies and various Fiat currencies.
 
+- 🚀 **Features**: Convert between 50 cryptocurrencies and 40 Fiat Currencies
+- 💸 **Cost**: Absolutely FREE!
 
-### The Crypto Calculator Widget — is a beautiful and easy-to-use real-time website tool that converts cryptocurrencies into Fiat currencies FOR ANY WEBSITES. You can choose from 50 diffrent cryptocurrencies, and 40 Fiat Currencies to convert For FREE on your site. ###
+## [Live Demo]()
+[Click here to see the DEMO](https://www.plasbit.com/widgets)
 
+## How to Use
 
-## [DEMO](https://www.plasbit.com/widgets) ###
+### 1. Customization:
 
+See how easy it is to customize the widget to match your website's theme.
 
-## How to customize: ##
+![](https://github.com/PlasBit/Crypto-Calculator-Widget/blob/main/Customize.gif)
 
+### 2. Copy to your website:
 
-![](https://github.com/PlasBit/Calculator-Widget/blob/main/Customize.gif)
+Copying the code to your website is straightforward!
 
-## How to copy the code into your wesite: ##
+![](https://github.com/PlasBit/Crypto-Calculator-Widget/blob/main/CopyCode.gif)
 
+### 3. Installation:
+1. Copy the example provided below.
+2. Tweak it according to your needs.
+3. Seamlessly integrate crypto conversion on your site!
 
-![](https://github.com/PlasBit/Calculator-Widget/blob/main/CopyCode2.gif)
-
-### How To Install ###
-
-0. Copy [example](#example-) below and set your attributes customize.
-1. Enjoy.
-
----
-
-### Example ###
+### Code Snippet:
 
 ```html
-<!-- Crypto Calculator Widget --><div id="crypto_calculator" data-coins="" data-theme="linear-gradient(90deg, rgba(115, 114, 114, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(115, 114, 114, 1) 100%)" data-text="#ffffff" data-button="#0581de"></div><script src="https://img.plasbit.com/widget/js/index.js"></script><!-- /Crypto Calculator Widget -->
+<!-- Crypto Calculator Widget -->
+<div id="crypto_calculator" data-coins="" data-cards="" data-rss=""
+    data-theme="linear-gradient(90deg, rgba(115, 114, 114, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(115, 114, 114, 1) 100%)"
+    data-text="#ffffff" data-button="#0581de" data-vertical="false" data-coin="BTC" data-price="USD"
+    data-crypto-amount="1" data-switch-mode="false" data-currency-amount="1" data-language="en">
+</div>
+<script src="https://img.plasbit.com/widget/js/crypto-calculator.js"></script>
 ```
 
 
 
-### Check our website for the complete customization of our widgets https://www.plasbit.com/widgets ###
+🎨 **Need More Customization?**
+
+Discover a wide range of customization options on our official site:
+
+🌐 [PlasBit Widgets](https://www.plasbit.com/widgets)
