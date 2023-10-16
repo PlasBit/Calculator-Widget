@@ -1,7 +1,7 @@
 # Crypto Calculator Widget 💱
 The **Crypto Calculator Widget** offers a sleek, real-time tool for websites, enabling the conversion between cryptocurrencies and various Fiat currencies.
 
-- 🚀 **Features**: Convert between 50 cryptocurrencies and 40 Fiat Currencies
+- 🚀 **Features**: Convert between multiple cryptocurrencies and various Fiat Currencies.
 - 💸 **Cost**: Absolutely FREE!
 
 ## [Live Demo]()
